@@ -6,6 +6,7 @@ You will find that some of the smaller projects in this repository have been exp
 ## 📋 Repository Projects
 1. guess the number
 2. to-do list
+3. translator
 
 ## 🚀 How to Get Started
 
