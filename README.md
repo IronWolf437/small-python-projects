@@ -4,7 +4,8 @@ This repository is a collection of small Python projects that I created as part 
 You will find that some of the smaller projects in this repository have been expanded and improved on a larger scale, and have been moved to separate repositories. These projects are constantly evolving, and I plan to continue adding new ones as I go. The goal is to share these creations with others and provide practical examples that may be useful or inspiring to fellow learners and developers.
 
 ## 📋 Repository Projects
-no projects now
+1. guess the number
+2. to-do list
 
 ## 🚀 How to Get Started
 
