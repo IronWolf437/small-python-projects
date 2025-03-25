@@ -5,8 +5,7 @@ hr = 0
 state = True
 
 print("-------------------(TimeCount_v1.1)-------------------")        # This line displays the name and versions of the program
-
-print("\033[0;35mCan enter 'h' in [type of operations] To help you understand the program....\033[0m") # This is an explanatory line for the user to enter "help" to understand the program
+print("\033[0;35mCan enter 'h' in [type of operations] To help you understand the program....\033[0m")         # This is an explanatory line for the user to enter "help" to understand the program
 
 while True:
     dif = input("Enter the type of operations: ")
